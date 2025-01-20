@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\wwwroot\\js\\indexpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\wwwroot\\js\\indexpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\wwwroot\\js\\addeditpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\wwwroot\\js\\addeditpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\views\\home\\edittypeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\views\\home\\edittypeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\views\\home\\addtypeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\views\\home\\addtypeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\dtos\\loaisanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\dtos\\loaisanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|d:\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\trinhminhtan_tourkitapply\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55ADDD2-21EA-4E93-BC22-3FB9A22BAA77}|TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply.csproj|solutionrelative:trinhminhtan_tourkitapply\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:126:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:122:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:123:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:125:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:124:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:121:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "indexPage.js",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\wwwroot\\js\\indexPage.js",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\wwwroot\\js\\indexPage.js",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\wwwroot\\js\\indexPage.js",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\wwwroot\\js\\indexPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-20T05:17:36.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTypeProduct.cshtml",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\EditTypeProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Views\\Home\\EditTypeProduct.cshtml",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\EditTypeProduct.cshtml",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Views\\Home\\EditTypeProduct.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T05:14:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAiwG8BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:13:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T04:21:53.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Views\\Home\\EditProduct.cshtml",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\EditProduct.cshtml",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Views\\Home\\EditProduct.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T04:21:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addEditPage.js",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\wwwroot\\js\\addEditPage.js",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\wwwroot\\js\\addEditPage.js",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\wwwroot\\js\\addEditPage.js",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\wwwroot\\js\\addEditPage.js",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAL0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-20T05:20:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTypeProduct.cshtml",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\AddTypeProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Views\\Home\\AddTypeProduct.cshtml",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\AddTypeProduct.cshtml",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Views\\Home\\AddTypeProduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T05:14:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiSanPhamDto.cs",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Dtos\\LoaiSanPhamDto.cs",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Dtos\\LoaiSanPhamDto.cs",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Dtos\\LoaiSanPhamDto.cs",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Dtos\\LoaiSanPhamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:12:56.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:12:25.069Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9f9d2948-bb9c-4154-a8ea-fe53bda5afad",
+        "Display": 1,
+        "X": 197,
+        "Y": 157,
+        "Width": 1196,
+        "Height": 759,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhMinhTan_TourkitApply\\Views\\Home\\AddProduct.cshtml",
+              "ToolTip": "D:\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\TrinhMinhTan_TourkitApply\\Views\\Home\\AddProduct.cshtml",
+              "RelativeToolTip": "TrinhMinhTan_TourkitApply\\Views\\Home\\AddProduct.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T04:21:45.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model TrinhMinhTan_TourkitApply.Models.LoaiSanPham
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TourkitApply</title>
+    <!-- Import jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h2>Chỉnh Sửa Loại Sản Phẩm</h2>
+        <a href="/Home/Index" class="btn btn-success btn-sm ml-3" id="btnAddProduct">
+            <i class="fas fa-home"></i> Home
+        </a>
+        <form id="editLoaiSanPhamForm">
+            <div>
+                <label for="tenSanPham">Id sản phẩm:</label>
+                <input type="text" id="editLoaiSanPhamId" class="form-control" value="@Model.Id" readonly />
+            </div>
+            <div class="mb-3">
+                <label for="editTenLoaiSanPham" class="form-label">Tên Loại Sản Phẩm:</label>
+                <input type="text" id="editTenLoaiSanPham" class="form-control" value="@Model.Ten" min="1" maxlength="20" required />
+            </div>
+            <div class="mb-3">
+                <label for="editNgayNhap" class="form-label">Ngày Nhập:</label>
+                <input type="date" id="editNgayNhap" class="form-control" value="@Model.NgayNhap.ToString("yyyy-MM-dd")" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Lưu Thay Đổi</button>
+        </form>
+    </div>
+
+    <script src="~/js/addeditpage.js"></script>
+</body>
+</html>

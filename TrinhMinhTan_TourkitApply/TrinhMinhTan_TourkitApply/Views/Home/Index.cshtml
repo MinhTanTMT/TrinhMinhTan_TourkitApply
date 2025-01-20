@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TourkitApply</title>
+    <!-- Import jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <h1>TourkitApply</h1>
+
+    <button class="btn btn-success btn-sm ml-3" id="hiddenTable">
+        <i class="fas fa-bookmark"></i> Chuyển trang
+    </button>
+    
+    <br></br>
+
+    <a href="/Home/AddProduct" class="btn btn-success btn-sm ml-3" id="btnAddProduct">
+        <i class="fas fa-plus"></i> Thêm sản phẩm mới
+    </a>
+
+    <a href="/Home/AddTypeProduct" class="btn btn-success btn-sm ml-3" id="btnAddTypeProduct" style="display: none">
+        <i class="fas fa-plus"></i> Thêm loại sản phẩm mới
+    </a>
+
+
+    <div class="form-group m-2">
+        <label for="searchInput">Tìm kiếm:</label>
+        <input type="text" class="form-control" id="searchInput" placeholder="Nhập từ khóa tìm kiếm">
+    </div>
+    <div class="form-group m-2" id="productTypeSelectionDiv">
+        <label for="categorySelect">Chọn danh mục:</label>
+        <input type="text" class="form-control" id="searchInputTypeProduct" placeholder="Nhập từ khóa tìm kiếm kiểu sản phẩm">
+        <select class="form-control" id="typeProduct">
+            <option value="0">Danh mục 1</option>
+            <option value="1">Danh mục 2</option>
+            <option value="2">Danh mục 3</option>
+        </select>
+    </div>
+
+        <table class="table table-sm table-striped table-bordered m-2" id="productTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên</th>
+                    <th>Giá</th>
+                    <th>Loại</th>
+                    <th>Ngày Nhập</th>
+                    <th>Sửa</th>
+                    <th>Xóa</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <table class="table table-sm table-striped table-bordered m-2" id="typeProductTable" style="display: none;">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên</th>
+                    <th>Số lượng</th>
+                    <th>Sửa</th>
+                    <th>Xóa</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+
+    <div id="pagination">
+        <button class="btn btn-success btn-sm ml-3" id="prevPage">Previous</button>
+        <span id="currentPage">1</span>
+        <button class="btn btn-success btn-sm ml-3" id="nextPage">Next</button>
+    </div>
+
+    <script src="~/js/indexpage.js"></script>
+
+</body>
+</html>
+
+
+
